@@ -52,3 +52,9 @@ Dense Layer — 50 neurons + ReLU
 Output Layer — 10 neurons
     ↓
 Predicted Digit (0–9)
+
+MNIST-Digit-Classification/
+│
+├── 📄 README.md
+├── 📓 MNIST_Digit_Classification.ipynb
+└── 🤖 mnist_digit_classifier.keras
