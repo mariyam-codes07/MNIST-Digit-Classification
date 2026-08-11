@@ -68,6 +68,29 @@ The confusion matrix shows how well the model classified each digit from 0 to 9.
 
 ![MNIST Confusion Matrix](./confusion_matrix.png)
 
+## 📈 Results
+
+The neural network was trained for 10 epochs.
+
+| Metric | Result |
+|---|---:|
+| Training Accuracy | **98.91%** |
+| Test Accuracy | **96.25%** |
+| Final Training Loss | **0.0310** |
+| Test Images | **10,000** |
+
+The model achieved approximately **96.25% accuracy on unseen test images**.
+
+### Training Accuracy
+
+![Training Accuracy](./training_accuracy.png)
+
+### Training Loss
+
+![Training Loss](./training_loss.png)
+
+The confusion matrix and error analysis were used to examine the model's classification performance in more detail.
+
 ## 👨‍💻 Author
 
 **mariyam-code07**
