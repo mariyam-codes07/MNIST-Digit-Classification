@@ -65,7 +65,7 @@ MNIST-Digit-Classification/
 The confusion matrix shows how well the model classified each digit from 0 to 9.
 
 
-<img width="2393" height="2100" alt="confusion_matrix" src="https://github.com/user-attachments/assets/7f689922-7bf3-4b46-8bdb-da2e69e627b7" />
+![MNIST Confusion Matrix](./<img width="2393" height="2100" alt="confusion_matrix" src="https://github.com/user-attachments/assets/7f689922-7bf3-4b46-8bdb-da2e69e627b7" />)
 
 
 
