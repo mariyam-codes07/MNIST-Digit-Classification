@@ -60,3 +60,15 @@ MNIST-Digit-Classification/
 ├── 🤖 mnist_digit_classifier.keras
 └── 🖼️ confusion_matrix.png
 
+## 📊 Confusion Matrix
+
+The confusion matrix shows how well the model classified each digit from 0 to 9.
+
+![MNIST Confusion Matrix](confusion_matrix.png)
+
+## 👨‍💻 Author
+
+**mariyam-code07**
+
+Computer Science Engineering — AI & Machine Learning
+
