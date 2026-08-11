@@ -58,7 +58,9 @@ MNIST-Digit-Classification/
 ├── 📄 README.md
 ├── 📓 MNIST_Digit_Classification.ipynb
 ├── 🤖 mnist_digit_classifier.keras
-└── 🖼️ confusion_matrix.png
+├── 🖼️ confusion_matrix.png
+├── 📈 training_accuracy.png
+└── 📉 training_loss.png
 
 ## 📊 Confusion Matrix
 
